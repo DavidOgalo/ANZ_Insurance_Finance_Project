@@ -109,6 +109,10 @@ The following table summarizes the main sources used for data collection and enr
 
 A complete list of sources is available in the Sources sheet of the final deliverable.
 
+## Templates
+
+A template file, `ANZ_Insurance_Finannce_Template.xlsx`, is included in the `templates/` directory. This template provides a reference for the structure, formatting, and content expected in the final deliverable Excel workbook. It can be used as a guide for future projects, for customizing the output, or for ensuring consistency when extending the dataset. Review this template to understand the recommended layout and key components of a high-quality company data enrichment deliverable.
+
 ## Notes
 
 - All contact information was ethically sourced from publicly available business sources

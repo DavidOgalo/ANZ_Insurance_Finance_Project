@@ -65,6 +65,7 @@ notebooks/*.ipynb_checkpoints
 
 # Excel and CSV outputs
 *.xlsx
+!templates/*.xlsx
 *.csv
 
 # MacOS
